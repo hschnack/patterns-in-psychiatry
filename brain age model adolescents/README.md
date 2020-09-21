@@ -54,7 +54,7 @@ If you want to compare BA gaps between two or more groups (e.g., with one group 
 
 ### References
 
-Brouwer, R.M., Schutte, J., Janssen, R., Boomsma, D.I., Hulshoff Pol, H.E., Schnack, H.G. (2020). The speed of development of adolescent brain age depends on sex and is genetically determined.
+Brouwer, R.M., Schutte, J., Janssen, R., Boomsma, D.I., Hulshoff Pol, H.E., Schnack, H.G. (Accepted for publication, Cerebral Cortex, 2020). The speed of development of adolescent brain age depends on sex and is genetically determined.
 
 Koenis, M.M.G., Brouwer, R.M., Swagerman, S.C., van Soelen, I.L.C., Boomsma, D.I., Hulshoff Pol, H.E. (2018). Association between structural brain network efficiency and intelligence increases during adolescence. Human Brain Mapping 39(2); 822-836. https://doi.org/10.1002/hbm.23885.
 
